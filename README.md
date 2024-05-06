@@ -1,2 +1,2 @@
-## The HypeCrazed website.
+## The HypeCrazed website
 https://hypecrazed.github.io
